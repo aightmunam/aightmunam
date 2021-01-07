@@ -1,4 +1,4 @@
-### Hi human. Or bot? I'm Munam, a 21 year young man that feels very old  👋
+### Hi human. Or bot? I'm Munam, a 21 year yo man that feels very old  👋
 
 
 - I’m currently working as a Software Engineer @[Arbisoft][https://arbisoft.com/]
