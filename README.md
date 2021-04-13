@@ -1,7 +1,7 @@
 ### Hi human. Or bot? I'm Munam. I'm 21 and yet I feel very old  👋
 
 
-- I’m currently working as a *Software Engineer* @[Arbisoft][https://arbisoft.com/]
+- I’m currently working as a *Software Engineer* @[Arbisoft](https://arbisoft.com/)
 - I’m looking to collaborate on anything that sounds fun. :boom:
 - Nowadays, I work on *Django* and *React*. I love working with *Python* :bomb:
 - I loveeeee rock music to the point where my youtube recommendations are littered with *Tool, Led Zeppelin, Pantera, Pink Floyd, SlipKnot* and *Gojira*. See that diversity? I make no judgement with the kind of music one listens to, as long as it's *Rock* and not some sissy *Pop* music. Jk jk, listen whatever you feel like. But Rock music tho? Insaneee. :metal:
