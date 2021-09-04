@@ -9,6 +9,10 @@ I'm Munam. I'm 21 and yet I feel very old  👋
 
 ***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aightmunam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Munam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aightmunam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language??username=aightmunam&theme=solarized_dark)
+![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language??username=aightmunam&theme=solarized_dark)
+![Munam Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details??username=aightmunam&theme=solarized_dark)
