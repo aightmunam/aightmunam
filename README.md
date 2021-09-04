@@ -13,4 +13,4 @@ I'm Munam. I'm 21 and yet I feel very old  👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aightmunam&theme=solarized_dark)
