@@ -9,9 +9,13 @@
 - In my free time, I like to spend time reading DL research papers. That is, when I get some time from reading a shitload of fantasy novels. Currently, I'm re-reading *Joe Abercrombie*'s 5th book in the First Law world, [*The Heroes*](https://www.goodreads.com/book/show/9300768-the-heroes) :book:
 
 ***
-![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aightmunam&theme=solarized_dark)
+![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aightmunam&theme=monokai)
 
 ## 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Munam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aightmunam&bg_color=111111&color=F1FFFF&line=F178FF&point=FFFFFF&hide_border=true" /></a>
+
 
 
