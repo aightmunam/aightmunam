@@ -10,3 +10,5 @@ I'm Munam. I'm 21 and yet I feel very old  👋
 ***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aightmunam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam)](https://github.com/ryo-ma/github-profile-trophy)
