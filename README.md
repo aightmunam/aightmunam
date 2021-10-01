@@ -12,7 +12,7 @@
 ![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aightmunam&theme=monokai)
 
 ## 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)
 
 ## 
 <img alt="Munam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aightmunam&bg_color=111111&color=F1FFFF&line=F178FF&point=FFFFFF&hide_border=true" />
