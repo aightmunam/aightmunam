@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Munam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aightmunam&bg_color=111111&color=F1FFFF&line=F178FF&point=FFFFFF&hide_border=true" /></a>
+<img alt="Munam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aightmunam&bg_color=111111&color=F1FFFF&line=F178FF&point=FFFFFF&hide_border=true" />
 
 
 
