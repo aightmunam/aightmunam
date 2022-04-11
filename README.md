@@ -2,7 +2,7 @@
 ##### I'm 22 and yet I feel very old. 👋
 
 
-- I’m currently working as a *Backend Engineer*
+- I’m currently working as a *Backend Engineer*.
 - Nowadays, I work on *Python*, *Django* and *DRF*. :bomb:
 - Currently, I am learning [Rust](https://www.rust-lang.org/), and [System Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/01344941640) 📘
 - I love rock music to the point where my spotify recommendations are littered with *Tool, Led Zeppelin, Pantera, Pink Floyd, SlipKnot* and *Gojira*. 
