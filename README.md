@@ -5,8 +5,6 @@
 - I’m currently working as a *Backend Engineer*.
 - Nowadays, I work on *Python*, *Django* and *DRF*. :bomb:
 - Currently, I am learning [Rust](https://www.rust-lang.org/), and [System Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/01344941640) 📘
-- I love rock music to the point where my spotify recommendations are littered with *Tool, Led Zeppelin, Pantera, Pink Floyd, SlipKnot* and *Gojira*. 
-- In my free time, I like to spend time reading DL research papers. That is, when I get some time from reading a whole lot of fantasy novels. Currently, I'm reading *Mark Lawrence*'s, [*Book of the Ancestor series*](https://www.goodreads.com/series/185644-book-of-the-ancestor) :book:
 
 # 
 ![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aightmunam&theme=monokai)
