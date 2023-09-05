@@ -1,20 +1,9 @@
 # Hi, I'm Munam. 
-##### I'm 22 and yet I feel very old. 👋
 
-
-- I’m currently working as a *Backend Engineer*.
-- Nowadays, I work on *Python*, *Django* and *DRF*. :bomb:
-- Currently, I am learning [Rust](https://www.rust-lang.org/), and [System Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/01344941640) 📘
-
-# 
-![Munam Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aightmunam&theme=monokai)
-
-## 
-![trophy](https://github-profile-trophy.vercel.app/?username=aightmunam&theme=darkhub&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A)
-
-<!-- 
-## 
-<img alt="Munam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aightmunam&bg_color=111111&color=F1FFFF&line=F178FF&point=FFFFFF&hide_border=true" />
- -->
-
-
+- I’m currently working as a *Backend Engineer* (working on *Python*, *Django*, *AWS*)
+- My favorite part of software engineering is solving scalability issues. I really enjoy (after a fair bit of frustration at figuring things out 😅) optimizing a system for maximum performance, figuring out acceptable tradeoffs.
+- Some holy grail books (imo):
+    1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+    2. [System Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/01344941640)
+    3. [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+    4. [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008) 🐍
