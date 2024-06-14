@@ -1,6 +1,6 @@
 # Hi, I'm Munam. 
 
-- I’m currently working as a *Backend Engineer* (working on *Python*, *Django*, *AWS*)
+- I’m currently working with *Python*, *Go*, *Django*, *AWS*, *Postgres*
 - My favorite part of software engineering is learning and re-learning scalability. I really enjoy (after a fair bit of frustration at figuring things out 😅) optimizing a system for maximum performance, figuring out acceptable tradeoffs by doing tradeoff analysis, and applying novel solutions to my own problems.
 - Some holy grail books (imo):
     1. [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
